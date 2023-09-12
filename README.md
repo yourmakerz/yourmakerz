@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yourmakerz
-- 👀 I’m interested in software developement.
+- 👋 Hi, I’m Daniel_KP
+- 👀 I’m interested in software developement and Data science.
 - 🌱 I’m currently learning data science and coding.
 - 📫 DM me for interesting projects.
