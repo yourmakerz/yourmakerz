@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel_KP
-- 👀 I’m interested in software developement and Data science.
-- 🌱 I’m currently learning data science and coding.
+- 👀 I’m interested in Data analytic and engineering science.
+- 🌱 Learning is a life long journey, so keep learning new things than yesterday.
 - 📫 DM me for interesting projects.
